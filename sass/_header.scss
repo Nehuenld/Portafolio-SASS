@@ -1,0 +1,20 @@
+header{
+    padding: 78px ;
+    text-align: center;
+    background-image: url("http://www.denazaret.net/wp-content/uploads/2015/04/paisaje.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    h1{
+    	text-align: left;
+   		font-size: 130px;
+    	font-family:$font-principal;
+    	color: #260404;
+    }
+    img{
+        width: 120px;
+        height: 120px;
+        padding-left: 400px;
+    }
+}   
